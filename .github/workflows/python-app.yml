@@ -1,7 +1,6 @@
-name: Python application
+name: Python Hello-world app
 
-on:
-  workflow_dispatch:
+on: [push]
 
 permissions:
   contents: read
